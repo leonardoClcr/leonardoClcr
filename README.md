@@ -10,7 +10,7 @@
 - 🚀 Impulsionando ideias e contribuindo para a comunidade de código aberto.
 
 ### Linguagens e Ferramentas
-Python | JavaScript | HTML | CSS | Git | Docker | SQL
+Python | Django | Flask | Dados | Git | Docker | SQL
 
 ### Contato
 📧 E-mail: ep.leonardorocha@gmail.com
