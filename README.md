@@ -1,16 +1,16 @@
 ## Leonardo 🚀
 
-👨🏻‍💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento. Atualmente explorando o vasto mundo da programação com um foco especial em Python.
+👨🏻‍💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento. Atualmente explorando o vasto mundo da programação.
 
 ### Sobre mim
 - 🎓 Estudante de Engenharia de Software
-- 💻 Entusiasta de Python e suas aplicações em desenvolvimento web, ciência de dados e automação.
+- 💻 Entusiasta de tecnologia e suas incriveis possibilidades.
 - 🌱 Sempre em busca de aprender e aprimorar minhas habilidades técnicas.
 - 📚 Compartilhando conhecimento e experiências através de projetos e colaborações.
 - 🚀 Impulsionando ideias e contribuindo para a comunidade de código aberto.
 
 ### Linguagens e Ferramentas
-Python | Django | Flask | Dados | Git | Docker | SQL
+JavaScript | React | Sql | Python | Git | Docker | SQL | Django | Node
 
 ### Contato
 📧 E-mail: ep.leonardorocha@gmail.com
