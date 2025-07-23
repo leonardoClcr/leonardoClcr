@@ -13,7 +13,7 @@
 JavaScript | React | Sql | Python | Git | Docker | SQL | Django | Node
 
 ### Contato
-📧 E-mail: ep.leonardorocha@gmail.com
+📧 E-mail: rochalcr.dev@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/leonardo-c-rocha-b7822b2a7/
 
 Vamos codificar juntos! 💻✨
