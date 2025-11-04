@@ -10,7 +10,7 @@
 - 🚀 Impulsionando ideias e contribuindo para a comunidade de código aberto.
 
 ### Linguagens e Ferramentas
-Java | Springboot | Sql | Python | Git | Docker | SQL | Django | Node
+Java | JavaScript | Sql | Python | Git | Docker | SQL | Django | Node
 
 ### Contato
 📧 E-mail: rochalcr.dev@gmail.com
